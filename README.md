@@ -1,4 +1,4 @@
-# Requirenments: #
+# Requirements: #
 * Java 1.8 OpenJdk
 * Gradle
 
