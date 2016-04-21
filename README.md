@@ -1,3 +1,8 @@
+# Requirenments: #
+* Java 1.8 OpenJdk
+* Gradle
+
+
 # TASK #
 
 Watermark-Test
